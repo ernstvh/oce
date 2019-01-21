@@ -7,6 +7,7 @@ Slides and example code on the course Angular, Océ - spring 2019
 -   Repository with example code: https://github.com/PeterKassenaar/voorbeeldenAngular2
 -   [Workshops/Exercises Angular (PDF)](./Workshops%20Angular%20-%20Oce.pdf)
 -   [Reading Guide - Angular Training Book (PDF)](./Reading%20Guide%20-%20Angular%20Rangle%20Training%20Book.pdf)
+-   [Angular Training Book - (online) ](https://angular-2-training-book.rangle.io/)
 
 ## Added during the training
 
