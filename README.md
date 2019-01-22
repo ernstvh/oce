@@ -11,7 +11,7 @@ Slides and example code on the course Angular, Océ - spring 2019
 
 ## Added during the training
 
--   Information on internationalization: https://angular.io/guide/i18n
+-   Information on internationalization: https://github.com/ngx-translate
 -   Background information on ES5, ES6 And browser suppert. This is also called the 'JavaScript compatibility table'. http://kangax.github.io/compat-table/es6/
 -   Background information on the JavaScript Event Loop -https://www.youtube.com/watch?v=8aGhZQkoFbQ
 -   Augury - tool to analyze and debug Angular-applications: https://augury.rangle.io/

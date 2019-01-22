@@ -41,4 +41,17 @@ describe('CitiesComponent', () => {
     component.deleteCity(component.cities[0]);
     expect(component.cities.length).toEqual(1);
   });
+
+  // Example of a Spy. "Is the correct method called, when a specific button is clicked?"
+  it('should call the deleteCity method only when delete button is clicked', () => {
+    spyOn(component, 'deleteCity');
+    const button = fixture.debugElement.nativeElement.querySelector(
+      '#btnDelete'
+    );
+    button.click();
+
+    fixture.whenStable().then(() => {
+      expect(component.deleteCity).toHaveBeenCalled();
+    });
+  });
 });
