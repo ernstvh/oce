@@ -15,3 +15,4 @@ Slides and example code on the course Angular, Océ - spring 2019
 -   Background information on ES5, ES6 And browser suppert. This is also called the 'JavaScript compatibility table'. http://kangax.github.io/compat-table/es6/
 -   Background information on the JavaScript Event Loop -https://www.youtube.com/watch?v=8aGhZQkoFbQ
 -   Augury - tool to analyze and debug Angular-applications: https://augury.rangle.io/
+-   More information on SASS, the CSS pre-processing language (a bit like TypeScript, but for CSS) - https://sass-lang.com/
