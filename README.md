@@ -4,7 +4,7 @@ Slides and example code on the course Angular, Océ - spring 2019
 
 ## (2) Advanced - Links
 - Repository with example code : https://github.com/PeterKassenaar/AngularAdvanced
-- ...
+- Testing Repository : https://github.com/PeterKassenaar/ng-testing
 
 ## (2) Advanced - Added during the training
 - ...
